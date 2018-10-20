@@ -1,0 +1,9 @@
+title: Towson CCDC Wiki
+description: A place for all things wiki related!
+git_branch: master
+
+show_downloads: false
+theme: jekyll-theme-cayman
+include: ['wiki']
+kramdown:
+  input: GFM
