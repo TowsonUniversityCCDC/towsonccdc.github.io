@@ -4,4 +4,4 @@ A wiki for all things Towson CCDC. Many things will be added here so be sure to 
 
 [Site](https://towsonccdc.github.io)
 
-[Theme Github](https://github.com/pages-themes/cayman)
+[Github Theme](https://github.com/pages-themes/cayman)
