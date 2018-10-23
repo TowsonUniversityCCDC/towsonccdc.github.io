@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Product Keys From Microsoft Imagine
+# Getting Product Keys From Microsoft Imagine
 
 - Navigate to: [Microsoft Imagine](https://towson-cis.onthehub.com/)
 - Click 'Sign In'
@@ -15,7 +15,7 @@ layout: default
         - **The one you are looking for is usually not the top result**
     - Example
         - Windows 10 (you should be using this version **not the education version**)
-        - ![Microsoft Imagine](./images/win10_dreamspark.png)
+        - ![Microsoft Imagine](https://towsonccdc.github.io/images/win10_dreamspark.png)
 - Add to Cart
 - Checkout
 - You **do not** need to download the .iso if you are creating your VM on Proxmox. You will only need the product key
